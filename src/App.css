@@ -30,8 +30,17 @@ button{
   height: 500px;
   width: 500px;
   background-color: blue;
-  margin: auto;
+  margin-left: 500px;
+  position: absolute;
+
 }
+.Box{
+  padding:30px;
+  margin:30px;
+  border: 1px solid black;
+  width:30px;
+}
+
 
 .sqr{
 margin: auto;
